@@ -24,8 +24,6 @@ http://192.168.123.1:23234/rtp/239.3.1.118:8000
 http://192.168.123.1:23234/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿",BRTV卡酷少儿[高清]
 http://192.168.123.1:23234/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="1877" tvg-name="北京体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="北京",BRTV体育休闲[超清]
-http://192.168.123.1:23234/rtp/239.3.1.121:8000
 #EXTINF:-1 tvg-id="1877" tvg-name="北京体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="北京",BRTV体育休闲[高清]
 http://192.168.123.1:23234/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="" tvg-name="北京国际" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京",BRTV国际频道
